@@ -2,6 +2,5 @@ README.
 
 👋 Salve guys!
 
-☕ desenvolvedor de Java
-
-🤖 Desenvolvedor JavaScript
+☕ Desenvolvedor : **Java**
+🤖 Desenvolvedor : **JavaScript**
