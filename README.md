@@ -2,6 +2,5 @@ README.
 
 👋 Salve guys!
 
-☕ Desenvolvedor : **Java**
-[+]
+☕ Desenvolvedor : **Java**, 
 🤖 Desenvolvedor : **JavaScript**
